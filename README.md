@@ -49,6 +49,6 @@ Se você quiser contribuir para este projeto, siga os seguintes passos:
 5. Abra um pull request para este repositório.
 
 
-# Disclaimer ⚠️
+### Disclaimer ⚠️
 
 Este projeto foi criado para a cadeira de Programação para web de forma totalmente didatica, não interfere e nem deve ser usado em operações reais.
