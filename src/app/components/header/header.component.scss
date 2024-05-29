@@ -1,0 +1,39 @@
+*{
+    color: #FFFFFF
+}
+
+#navbrand{
+    background-color: #BBBBBB;
+    border-radius: 10px;
+    img {
+        background-color: #BBBBBB;
+    }
+    padding: 8px;
+    color: #1A1617
+}
+
+.navbar{
+    background-color: #1A1617;
+    font-weight: 500;
+}
+
+#navbarNav, li {
+    background-color: #1A1617;
+}
+
+#accessmetar{
+    padding: 12px;
+    background-color: #BBBBBB;
+    color: #1A1617;
+    font-family: 'roboto';
+    font-weight: 600;
+
+    font-size: 16px;
+    i {
+        background-color: #BBBBBB;
+        font-size: 22px;
+        margin-left: 12px;
+        color: #1A1617;
+    }
+    border-radius: 10px;
+}
