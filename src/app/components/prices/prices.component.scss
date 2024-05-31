@@ -1,0 +1,125 @@
+*{
+    color: #FFFFFF;
+    background-color: #BBBBBB;
+}
+
+.container{
+    max-width: 1300px;
+    padding-top: 40px;
+}
+
+#container-rounded{
+    background-color: #1A1617;
+    border-radius: 25px;
+    h3 {
+        font-size: 12px;
+        color: #BBBBBB;
+        background-color: #1A1617;
+    }
+
+    h1{
+        background-color: #1A1617;
+        color: #97F9E7;
+        font-size: 36px;
+        font-weight: 700;
+    }
+    h2{
+        background-color: #1A1617;
+        color: #BBBBBB;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    margin-bottom: 40px;
+}
+
+.card{
+    border-radius: 25px;
+}
+
+.card-body{
+    border-radius: 25px;
+}
+
+#backgroundr{
+    background-color: #1A1617;
+    .col{
+        background-color: #1A1617;
+        padding-bottom: 25px;
+    }
+
+}
+
+#disclaimerrefunds{
+    background-color: #1A1617;
+    font-size: 12px
+}
+
+#cardfree{
+    background-color: #CAFCEF;
+    padding-top: 50px;
+    h5,h6,p,i {
+        background-color: #CAFCEF;
+        color: black;
+    }
+    i{
+        margin-right: 5px;
+    }
+    max-height: 400px;
+    min-height: 400px;
+    .card-text{
+        font-size: 19px;
+    }
+}
+
+#cardadvanced{
+    background-color: #FBE598;
+    padding-top: 50px;
+    h5,h6,p,i {
+        background-color: #FBE598;
+        color: black;
+    }
+    i{
+        margin-right: 5px;
+    }
+    max-height: 400px;
+    min-height: 400px;
+    .card-text{
+        padding-top: 10px;
+        font-size: 19px;
+    }
+    .colorb{
+        background-color: #FBE598;
+    }
+}
+
+#cardpremium{
+    background-color: #FFC5B4;
+    padding-top: 50px;
+    h5,h6,p,i {
+        background-color: #FFC5B4;
+        color: black;
+    }
+    i{
+        margin-right: 5px;
+    }
+    max-height: 400px;
+    min-height: 400px;
+    .card-text{
+        padding-top: 10px;
+        font-size: 19px;
+    }
+    .colorb{
+        background-color: #FFC5B4;
+    }
+}
+
+.card-title{
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.btn{
+    border-radius: 22px;
+    color: black;
+    border: 1px solid black
+}
